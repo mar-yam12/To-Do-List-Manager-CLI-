@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Do laundry",
+        "done": true
+    },
+    {
+        "task": "Clean the house",
+        "done": false
+    },
+    {
+        "task": "Go to the gym",
+        "done": true
+    },
+    {
+        "task": "Study for the exam",
+        "done": false
+    },
+    {
+        "task": "Buy grocery for sehri and iftari",
+        "done": false
+    }
+]
